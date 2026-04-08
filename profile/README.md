@@ -1,41 +1,52 @@
-# 👋 Chào mừng bạn đến với TechTenTen!
+# 👋 Chào mừng bạn đến với TechTenTen! | Welcome to TechTenTen!
 
-Chúng tôi là đội ngũ kỹ thuật và hỗ trợ từ **Tenten - GMO-Z.com RUNSYSTEM**. Với sứ mệnh mang lại hạ tầng số vững chắc, TechTenTen không chỉ quản lý hệ thống mà còn xây dựng cộng đồng chia sẻ mã nguồn mở cho cộng đồng developer Việt Nam.
+Chúng tôi là đội ngũ kỹ thuật đứng sau hệ thống vận hành tại **Tenten - GMO-Z.com**. Đây là không gian riêng để team chia sẻ các dự án mã nguồn mở, các script hỗ trợ và kết nối cùng cộng đồng developer.
+
+*We are the technical team behind the operations at **Tenten - GMO-Z.com**. This is our dedicated space to share open-source projects, automation scripts, and connect with the developer community.*
 
 ---
 
-### 🚀 Về chúng tôi - TechTenTen Team
-* 🛠️ **Dịch vụ cốt lõi:** Quản trị & Hỗ trợ chuyên sâu về Tên miền, Hosting, VPS, Server và Email doanh nghiệp.
-* 🕒 **Cam kết:** Hỗ trợ kỹ thuật **24/7/365** - Luôn đồng hành cùng sự ổn định của bạn.
-* 💡 **Hoạt động:** Phát triển các Tool hỗ trợ, Script tự động hóa và các Repo cộng đồng giúp tối ưu hóa vận hành hệ thống.
+### 🚀 Chúng tôi là ai? | Who We Are
+Chúng tôi là những "Night Owls" thực thụ, đảm bảo hệ thống luôn thông suốt bất kể ngày đêm.
+*We are true "Night Owls", ensuring systems run smoothly day and night.*
 
-### 📊 Thống kê GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechTenTen&show_icons=true&theme=tokyonight" alt="TechTenTen Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechTenTen&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+* 🛠️ **Dev & Ops:** Tập trung vào tối ưu hóa Server, VPS và các giải pháp tự động hóa.
+  *(Focusing on Server/VPS optimization and automation solutions.)*
+* 🤝 **Community-Driven:** Xây dựng các repository công khai để hỗ trợ cộng đồng kỹ thuật.
+  *(Building public repositories to support the tech community.)*
+* 🕒 **Always-on:** Đội ngũ luôn túc trực **24/7** để giữ cho hàng ngàn website luôn "sống" trên hệ thống Tenten.
+  *(Our team is on duty **24/7** to keep thousands of websites alive on Tenten's infrastructure.)*
+
+---
+
+### 🛠️ Tech Stack | Công nghệ sử dụng
+- **Infrastructure:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white) ![Proxmox](https://img.shields.io/badge/-Proxmox-E57024?style=flat&logo=proxmox&logoColor=white)
+- **Development:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=nodeldotjs&logoColor=white)
+- **Database:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### 🖧 Các dịch vụ của chúng tôi | Our Services
+* **Server Administration:** Kiểm tra, cập nhật và khắc phục sự cố trên Cloud Server.
+    *(Audit, update, and troubleshoot issues on your Cloud Servers.)*
+* **Data Migration:** Chuyển dữ liệu giữa MS365, Google, Zoho... hoặc giao thức IMAP/POP3.
+    *(Seamless data migration between MS365, Google, Zoho... or standard IMAP/POP3.)*
+* **Consulting:** Tư vấn lựa chọn VPS, Cloud Server, SSD Hosting (cPanel) hoặc WordPress Hosting (DirectAdmin).
+    *(Technical consultancy for choosing the right VPS, Cloud Server, SSD Hosting, or WordPress Hosting.)*
+* **Monitoring:** Giám sát hệ thống và xử lý sự cố trong thời gian sớm nhất.
+    *(Real-time monitoring and rapid issue resolution.)*
+
+---
+
+### 💬 Kết nối với chúng tôi | Connect with Us
+Nếu bạn tìm thấy điều gì đó hữu ích trong các repo của chúng tôi, đừng ngần ngại **Star** hoặc mở một **Issue** để cùng thảo luận nhé!
+*If you find our repositories helpful, feel free to drop a **Star** or open an **Issue** for discussion!*
+
+* 🌐 **Website:** [tenten.vn](https://tenten.vn)
+* ⚙️ **Support:** Liên hệ qua hệ thống Ticket để gặp chúng tôi 24/7.
+    *(Contact us via the Ticket system for 24/7 technical support.)*
+
+---
+<p align="center">
+  <i>“Vận hành bằng đam mê, hỗ trợ bằng trái tim. | Operated by passion, supported with heart.”</i>
 </p>
-
-### 🛠️ Hệ sinh thái công nghệ
-- **Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=nodeldotjs&logoColor=white)
-- **Servers/Cloud:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
-- **Tools:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📞 Kết nối với chúng tôi (Hỗ trợ 24/7)
-Chúng tôi luôn sẵn sàng lắng nghe và giải quyết các vấn đề kỹ thuật của bạn bất kể ngày đêm.
-
-- 🌐 **Website:** [tenten.vn](https://tenten.vn)
-- 🏢 **Công ty:** GMO-Z.com RUNSYSTEM
-- 📧 **Email:** support@tenten.vn
-- 💬 **Support:** Ticket system trực tuyến 24/7
-
----
-*“Sự hài lòng của khách hàng là kim chỉ nam cho mọi dòng code của chúng tôi.”* ```
-
-### Tại sao mẫu này lại ấn tượng?
-1. **GitHub Stats:** Sử dụng API để tự động hiển thị biểu đồ hoạt động và ngôn ngữ lập trình hay dùng nhất.
-2. **Badge Chuyên nghiệp:** Các logo công nghệ giúp người xem nhanh chóng nhận diện kỹ năng của team.
-3. **Phân loại rõ ràng:** Tách biệt giữa năng lực cá nhân/team và cam kết của doanh nghiệp (Tenten).
-
-**Lưu ý:** Chỗ link ảnh `username=TechTenTen`, nếu bạn dán vào trang cá nhân của mình thì hãy đổi thành username cá nhân của bạn để nó hiện đúng thông số của bạn nhé! Bạn thấy mẫu này đủ "chất" chưa?
